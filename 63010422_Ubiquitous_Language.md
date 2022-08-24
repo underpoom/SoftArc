@@ -1,0 +1,72 @@
+  Banking
+
+ACH (Automated Clearing House).		
+  a type of electronic funds transfer system .When you sign up for direct deposit of your paycheck at work, that money often moves into your bank account via ACH.				
+APR (Annual Percentage Rate).			
+  The total annualized cost of a loan.When you borrow money the lender is required to disclose the APR, so you understand the full cost of borrowing the money.				
+APY (Annual Percentage Yield).		
+  The annual yield earned on a deposit account				
+ATM (Automated Teller Machine).		
+  A convenient location for basic banking transactions, such as withdrawing cash, depositing checks or making balance inquiries.				
+Check.			
+  Some people write paper checks and other people use their bank’s online bill pay feature to issue electronically generated checks.				
+Compound interest.	
+  the powerful financial effect that helps your savings grow over time. With compound interest				
+Debit card.			
+  a payment method that’s connected to your checking account, the money that you spend gets deducted from your checking account balance.				
+Fraudulent charges.	
+  If a suspicious transaction occurs on your account, your bank may prevent the payment from going through until they talk with you to confirm that the purchase is valid.				
+Grace period.		
+  A certain amount of time when a borrower can delay making a payment on a loan or credit card account without paying a penalty or incurring interest charges.				
+Joint account.	
+  An account with two or more owners that own the account equally. For example, married couples.		
+  
+  
+  Telecommunication
+  
+Bandwidth	
+  capacity of connection		
+Call Forwarding		
+  Direct call to another place	
+E Phone			
+  Emergency Phone			
+DHCP		
+  server that provide address to each device		
+Network		 
+  one or multiple connection	
+IP	
+  address of each device		
+TCP		
+  Protocol that control the transmission		
+TCO	
+  purchase price of an asset and the costs of operation		
+VPN	
+  Virtual Private Network		
+WAN		
+  Wide Area Network		
+
+	
+  
+    Healthcare
+ADHD	
+  The abbreviation for attention deficit hyperactivity disorder.		
+Aorta		
+  The largest artery in the body.	
+Cardiac arrest	
+  A cessation of the normal regular muscular contractions of the heart, meaning blood cannot be pumped around the body		
+Cardiopulmonary resuscitation (CPR)		
+  Involves the administration of live-saving chest compressions to someone who is not breathing or who has suffered a cardiac arrest.		
+CCT	
+  Certificate of completion of training. Confirms that a doctor has completed an approved training programme in the UK		
+Doppler	
+  Doppler effect  is the change in frequency or wavelength of a wave.		
+Electroencephalogram (EEG)	
+  A test to record the electrical activity of the brain		
+ERCP	
+  Endoscopic retrograde cholangiopancreatography (ERCP) is technique where a thin flexible tube with a light and camera is inserted via the mouth.		
+HCPC		
+  The Health and Care Professions Council. A regulatory body that maintains a register of a number of healthcare professions.		
+LINAC		
+  Linear accelerator, which is a device used for external beam radiation treatments for patients with cancer.		
+  
+  
