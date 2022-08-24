@@ -1,6 +1,6 @@
   Banking
 
-ACH (Automated Clearing House).	\n	
+ACH (Automated Clearing House).
   a type of electronic funds transfer system .When you sign up for direct deposit of your paycheck at work, that money often moves into your bank account via ACH.				
 APR (Annual Percentage Rate).			
   The total annualized cost of a loan.When you borrow money the lender is required to disclose the APR, so you understand the full cost of borrowing the money.				
