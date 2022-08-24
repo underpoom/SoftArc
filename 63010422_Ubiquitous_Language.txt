@@ -46,7 +46,6 @@ WAN
   Wide Area Network		
 
 	
-  
     Healthcare
 ADHD	
   The abbreviation for attention deficit hyperactivity disorder.		
